@@ -9,7 +9,7 @@ import re
 
 st.title('Dash Board')
 
-st.write("""Sample Data for DAS Project""")
+st.write("""Sample Data for LAS Project""")
 
 debate = {'#JusticeforPriyantha': """
 The tweets related to "#JusticeforPriyantha" predominantly express deep sorrow and a sense of
