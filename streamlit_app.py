@@ -7,12 +7,9 @@ import pandas as pd
 from wordcloud import WordCloud
 import re
 
-st.title('Priyantha Kumara (2021)')
+st.title('Dash Board')
 
-st.write("""
-A Buddhist Sri Lankan factory manager in Sialkot, was tortured and burnt to death on the street by a
-mob of Muslims after he was accused of desecrating posters bearing Muhammad's name.
-""")
+st.write("""Sample Data for DAS Project""")
 
 debate = {'#JusticeforPriyantha': """
 The tweets related to "#JusticeforPriyantha" predominantly express deep sorrow and a sense of
